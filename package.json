@@ -29,7 +29,7 @@
     "flatiron": "0.1.x",
     "microtime": "0.2.x",
     "minimatch": "0.0.x",
-    "nconf": "0.5.x",
+    "nconf": "https://github.com/bacchusrx/nconf/tarball/embeddable",
     "nssocket": "0.3.x",
     "node-fork": "0.4.x",
     "optimist": "0.2.x",
